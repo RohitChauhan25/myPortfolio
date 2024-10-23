@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio-rohit-chauhan/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio-rohit-chauhan/static/js/main.01a4e046.js",
-    "static/media/lyfeStyle.png": "/portfolio-rohit-chauhan/static/media/lyfeStyle.9ea5b89bed52baa88c5c.png",
-    "static/media/image.png": "/portfolio-rohit-chauhan/static/media/image.a4e878513e0ad6445592.png",
-    "static/media/electro.png": "/portfolio-rohit-chauhan/static/media/electro.6c7f74fd2a7b764928d8.png",
-    "static/media/wil.png": "/portfolio-rohit-chauhan/static/media/wil.bdf2bb603afc9fae1699.png",
-    "static/media/planIt.png": "/portfolio-rohit-chauhan/static/media/planIt.63eecbdc6e60d08a5242.png",
-    "static/media/qb.png": "/portfolio-rohit-chauhan/static/media/qb.980d7143eaf339ac6bc1.png",
-    "static/media/72571818_146419593273092__n.jpg": "/portfolio-rohit-chauhan/static/media/72571818_146419593273092_3943243541285412990_n.8676e970d8d7bee47d9e.jpg",
-    "index.html": "/portfolio-rohit-chauhan/index.html",
-    "main.bf538fe7.css.map": "/portfolio-rohit-chauhan/static/css/main.bf538fe7.css.map",
-    "main.01a4e046.js.map": "/portfolio-rohit-chauhan/static/js/main.01a4e046.js.map"
+    "main.css": "/rohitchauhan/static/css/main.bf538fe7.css",
+    "main.js": "/rohitchauhan/static/js/main.a1d3988f.js",
+    "static/media/lyfeStyle.png": "/rohitchauhan/static/media/lyfeStyle.9ea5b89bed52baa88c5c.png",
+    "static/media/image.png": "/rohitchauhan/static/media/image.a4e878513e0ad6445592.png",
+    "static/media/electro.png": "/rohitchauhan/static/media/electro.6c7f74fd2a7b764928d8.png",
+    "static/media/wil.png": "/rohitchauhan/static/media/wil.bdf2bb603afc9fae1699.png",
+    "static/media/planIt.png": "/rohitchauhan/static/media/planIt.63eecbdc6e60d08a5242.png",
+    "static/media/qb.png": "/rohitchauhan/static/media/qb.980d7143eaf339ac6bc1.png",
+    "static/media/72571818_146419593273092__n.jpg": "/rohitchauhan/static/media/72571818_146419593273092_3943243541285412990_n.8676e970d8d7bee47d9e.jpg",
+    "index.html": "/rohitchauhan/index.html",
+    "main.bf538fe7.css.map": "/rohitchauhan/static/css/main.bf538fe7.css.map",
+    "main.a1d3988f.js.map": "/rohitchauhan/static/js/main.a1d3988f.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.01a4e046.js"
+    "static/js/main.a1d3988f.js"
   ]
 }
